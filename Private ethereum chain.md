@@ -1,7 +1,7 @@
 # Private ethereum chain
 #ethereum
 
-From https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html and https://github.com/ethereum/go-ethereum/wiki/Private-network. 
+From https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html, https://github.com/ethereum/go-ethereum/wiki/Private-network, the Ethereum docs, and other sources.
 
 A private chain consists of:
 * Configuration file creating the first ("genesis") block
