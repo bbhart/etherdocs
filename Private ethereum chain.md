@@ -22,8 +22,8 @@ cd ~/chains/private37
 
 In this case the "37" is an arbitrary integer that I'll match the chainID to.
 
-### 2 - Create a genesis block file
-Change to the new directory and create the config for the first block, called the [genesis block](http://ethdocs.org/en/latest/network/test-networks.html#the-genesis-file)  in that directory. 
+### 2 - Create a genesis block config file
+Change to the new directory and create a file called **genesis.json** with the config for the first block, called the [genesis block](http://ethdocs.org/en/latest/network/test-networks.html#the-genesis-file). 
 
 genesis.json: (example)
 ```
