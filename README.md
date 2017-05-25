@@ -32,6 +32,8 @@ _(Rolls up a bunch of reading into one doc/article)_
 * Solidity - JavaScript-like
 * Serpent - python
 * LLL - LISP
+* [Truffle](http://truffleframework.com/docs/) "is a world class development environment, testing framework and asset pipeline for Ethereum"
+* [Fast Ethereum RPC client for testing and development](https://github.com/ethereumjs/testrpc)
 * https://github.com/danpaquin/GDAX-Python
 * https://api.gdax.com/products/ETH-USD/stats
 
