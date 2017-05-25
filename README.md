@@ -3,6 +3,9 @@ My Ethereum docs, notes, etc. as I learn.
 
 These will be pretty rough, sometimes unvalidated, so take it with a grain of salt. Will try to cite sources where I can.
 
+## List of lists
+_(Rolls up a bunch of reading into one doc/article)_
+* https://github.com/Scanate/EthList#getting-started (h/t [@matthewjgroff](https://twitter.com/matthewjgroff))
 
 ## Further reading to-do
 * DAO's - how structured, read contracts, understand The DAO issue
