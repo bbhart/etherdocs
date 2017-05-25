@@ -65,7 +65,7 @@ For now, until we can secure things some, disallow connections from peers (`--ma
 Mine some coin into your primary account.
 From geth's console:
 
-`> mining.start(4)`
+`> miner.start(4)`
 
 It will create the [DAG](https://github.com/ethereum/wiki/wiki/Ethash-DAG) (a dataset needed for Ethereum's style of proof-of-work mining), then begin mining.
 
