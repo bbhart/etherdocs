@@ -23,7 +23,7 @@ Click OK. At this point you should see Basic Attention under Custom Tokens and a
 1. For Amount:, send whatever test ether you're comfortable with. It might be a good time to look at the bottom lefthand corner of the screen and confirm that you're on the testnet.
 1. Click Show More Options.
 1. In the Data field, paste the Function Signature (Testnet) from the https://basicattentiontoken.org/token-address/  page.
-1. Slide the fee so it's >0.002. So overall you end up with something like:
+1. _(optional)_ Slide the fee so it's >0.002 (you might not need to do this; the network was acting funky when I wrote this, so skip this step the first time you try this). So overall you end up with something like:
 ![battestbeforesend](img/battestbeforesend.png)
 1. Type your password on the next screen, then send.
 ![confirm](img/batsendconfirmation.png)
