@@ -30,6 +30,7 @@ _(Rolls up a bunch of reading into one doc/article)_
 
 ## Developing
 * Solidity - JavaScript-like
+* An actual example of writing a Solidity script, compiling it, and deploying: https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
 * [remix](http://ethereum.github.io/remix/) - ethereum ide and tools for the web
 * [Truffle](http://truffleframework.com/docs/) "is a world class development environment, testing framework and asset pipeline for Ethereum"
 * [Fast Ethereum RPC client for testing and development](https://github.com/ethereumjs/testrpc)
