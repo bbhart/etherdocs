@@ -4,10 +4,6 @@
 !! **I cannot make this clearer: do this on the testnet or you
 will lose your ether.**
 
-**When I tested this the evening of 2017-May-27, I couldn't get it to work.
-Looking at the contract, I _think_ they ran out of test tokens, but not sure.
-This may still have value when buying the real thing though.**
-
 1. Start up Mist Browser.
 1. Switch over to the test network. (Develop->Network->Testnet). Let that sync up if you haven't visited before.
 1. Get yourself some test ether. If you know me, ping me with your **testnet** wallet address and I'll send you some.
