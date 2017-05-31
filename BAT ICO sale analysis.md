@@ -2,10 +2,18 @@
 
 _Note: I'm out of time to analyse right now. More later. (BBH: 2017-May-31 8:20AM PDT)_
 
+Proposal from BAT (with my conversion to USD based on 1 ETH = ~USD230)
+
+1 ETH = 6,400 BAT.
+
 1500M (1.5 billion) total tokens to be created.
-Tokens available for sale: 1 billion BAT
-BAT development pool: 200 million BAT
-User growth pool: 300 million BAT
+* Tokens available for sale: 1 billion BAT (USD 35,937,500)
+* BAT development pool: 200 million BAT (USD 7,187,500)
+* User growth pool: 300 million BAT (USD 10,781,250)
+
+
+
+My observations from blockchain:
 
 500M tokens created.
 * At May-29-2017 06:45:10 PM +UTC
