@@ -7,14 +7,6 @@ These will be pretty rough, sometimes unvalidated, so take it with a grain of sa
 _(Rolls up a bunch of reading into one doc/article)_
 * https://github.com/Scanate/EthList#getting-started (h/t [@matthewjgroff](https://twitter.com/matthewjgroff))
 
-## Further reading to-do
-* DAO's - how structured, read contracts, understand The DAO issue
-* Sybil attack
-* ERC20 - standard for smart contracts that implement tokens
-* Fees
-* Gas explained
-* Check out: http://cryptofees.net
-
 ## Initial Coin Offering (ICO) (general)
 * [ICOLIST](http://icolist.com/)
 * ICO stats - [site](https://icostats.com/) || [ICOs vs eth](https://icostats.com/vs-eth)
@@ -23,7 +15,7 @@ _(Rolls up a bunch of reading into one doc/article)_
 * Create a token contract: https://tokenfactory.surge.sh/#/factory
 
 ## Specific tokens
-* (REP) Augur - [site](https://augur.net/) || [docs](http://docs.augur.net/#overview) - prediction market, uses REP coins. 
+* (REP) Augur - [site](https://augur.net/) || [docs](http://docs.augur.net/#overview) - prediction market, uses REP coins.
 * (BAT) Basic Attention Token - [site](https://basicattentiontoken.org/token/) || [whitepaper](https://basicattentiontoken.org/wp-content/uploads/2017/05/BasicAttentionTokenWhitePaper-4.pdf)
 * Gnosis - [site](https://gnosis.pm/) || [whitepaper](https://gnosis.pm/resources/default/pdf/gnosis_whitepaper.pdf) - prediction market
 * Filecoin - [site](http://filecoin.io/) || [whitepaper (old)](http://filecoin.io/filecoin.pdf) - distributed file serving, get coin for providing storage. See also [ipfs whitepaper](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
@@ -63,3 +55,12 @@ _(Rolls up a bunch of reading into one doc/article)_
 * Oraclize docs -
 * Ethereal Summit 2017 - Introducing: Token (Brian Armstrong - CEO of Coinbase) - https://www.youtube.com/watch?v=3IJ6uWQzzwk
 * Ethereum Homstead docs - http://www.ethdocs.org/en/latest/ - maybe fork and edit, kind of rough in places
+
+
+## Further reading to-do
+* DAO's - how structured, read contracts, understand The DAO issue
+* Sybil attack
+* ERC20 - standard for smart contracts that implement tokens
+* Fees
+* Gas explained
+* Check out: http://cryptofees.net
