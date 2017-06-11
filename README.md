@@ -23,10 +23,13 @@ _(Rolls up a bunch of reading into one doc/article)_
 * Create a token contract: https://tokenfactory.surge.sh/#/factory
 
 ## Specific tokens
+* (REP) Augur - [site](https://augur.net/) || [docs](http://docs.augur.net/#overview) - prediction market, uses REP coins. 
 * (BAT) Basic Attention Token - [site](https://basicattentiontoken.org/token/) || [whitepaper](https://basicattentiontoken.org/wp-content/uploads/2017/05/BasicAttentionTokenWhitePaper-4.pdf)
+* Gnosis - [site](https://gnosis.pm/) || [whitepaper](https://gnosis.pm/resources/default/pdf/gnosis_whitepaper.pdf) - prediction market
+* Filecoin - [site](http://filecoin.io/) || [whitepaper (old)](http://filecoin.io/filecoin.pdf) - distributed file serving, get coin for providing storage. See also [ipfs whitepaper](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
+* (SC) Siacoin - [site](http://sia.tech/) || [wiki](https://siawiki.tech/) - similar to Filecoin in that you're compensated for storing data, but I can't seem to find a whitepaper or similar
 * (STRAT) Stratis - [site](http://stratisplatform.com) ||  [whitepaper](https://stratisplatform.com/files/Stratis_Whitepaper.pdf) || [use cases](https://stratisplatform.com/use-cases/)
-* Gnosis
-* Filecoin - distributed file serving, get coin for providing service
+
 
 ## Writing Contracts
 * General
