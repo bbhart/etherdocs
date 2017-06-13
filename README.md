@@ -14,6 +14,14 @@ _(Rolls up a bunch of reading into one doc/article)_
 * ICO funding https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f
 * Create a token contract: https://tokenfactory.surge.sh/#/factory
 
+## Cryptocurrency exchanges
+* [Coinbase](https://coinbase.com) - convert "real money" into bitcoin, ethereum, or litecoin. ACH bank transfers can take a week (!!) for some reason.
+* [GDAX](https://gdax.com) - Coinbase's trading platform for bitcoin, ethereum, or litecoin.
+* [Kraken](https://www.kraken.com/) - fiat and coin-to-coin exchange.
+* [Poloniex](https://poloniex.com) - coin-to-coin exchange; also has lending market and margin trading. (Fun fact: as of June 13
+  [this exchange holds about 4.7% of all eth](https://etherscan.io/accounts), or nearly $1.7 billion in US dollars).
+* [shapeshift.io](https://shapeshift.io) - coin-to-coin exchange
+
 ## Specific tokens
 * (REP) Augur - [site](https://augur.net/) || [docs](http://docs.augur.net/#overview) - prediction market, uses REP coins.
 * (BAT) Basic Attention Token - [site](https://basicattentiontoken.org/token/) || [whitepaper](https://basicattentiontoken.org/wp-content/uploads/2017/05/BasicAttentionTokenWhitePaper-4.pdf)
